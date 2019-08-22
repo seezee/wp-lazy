@@ -1,17 +1,17 @@
-=== WP FOFT Loader ===  
+=== WP Lazy ===  
 Contributors: seezee  
 Donate link: https://messengerwebdesign.com/donate  
 Tags: wordpress, filter, images, performance, lazy load  
 Requires at least: 3.9  
 Tested up to: 5.2.2  
 Requires PHP: 7.0  
-Stable tag: 1.0.0  
+Stable tag: 1.0.1  
 License: GNUv3 or later  
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
 
-Functions to add the `loading=“lazy”` attribute when inserting new media or displaying a gallery via the WordPress gallery shortcode.
+Functions to add the `loading="lazy"` attribute when inserting new media or displaying a gallery via the WordPress gallery shortcode.
 
 == Installation ==
 
@@ -40,15 +40,18 @@ Feel free to send a donation to my [Paypal account](https://paypal.me/messengerw
 
 == Changelog ==
 
+= 1.0.1 =
+* 2012-08-22
+* Corrected README errors
+
 = 1.0.0 =
 * 2012-08-22
 * Initial release
-
 == Upgrade Notice ==
 
-= 1.0.0 =
+= 1.0.1 =
 * 2012-08-22
-* Initial release
+* Corrected README errors
 
 [//]: # (REMEMBER to update the Stable tag!)
 
