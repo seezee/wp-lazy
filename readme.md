@@ -5,7 +5,7 @@ Tags: wordpress, filter, images, performance, lazy load
 Requires at least: 3.9  
 Tested up to: 5.2.2  
 Requires PHP: 7.0  
-Stable tag: 1.0.1  
+Stable tag: 1.0.2  
 License: GNUv3 or later  
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -16,7 +16,7 @@ Functions to add the `loading="lazy"` attribute when inserting new media or disp
 == Installation ==
 
 ### 3 WAYS TO USE THESE FUNCTIONS
-1. Copy the contents of  `lazy.php` to your theme’s `functions.php`
+1. Copy the contents of  `lazy.php` to your theme’s `functions.php`. DO NOT include the opening `<?php` tag!
 2. Place `lazy.php` in your theme folder and use `require_once __DIR__ . '/path/to/lazy.php';` to invoke it
 3. Incorporate the functions in a custom plugin
 
@@ -40,6 +40,10 @@ Feel free to send a donation to my [Paypal account](https://paypal.me/messengerw
 
 == Changelog ==
 
+= 1.0.2 =
+* 2012-09-06
+* Clarified usage option one in installation instructions
+
 = 1.0.1 =
 * 2012-08-22
 * Corrected README errors
@@ -49,9 +53,9 @@ Feel free to send a donation to my [Paypal account](https://paypal.me/messengerw
 * Initial release
 == Upgrade Notice ==
 
-= 1.0.1 =
-* 2012-08-22
-* Corrected README errors
+= 1.0.2 =
+* 2012-09-06
+* Clarified usage option one in installation instructions
 
 [//]: # (REMEMBER to update the Stable tag!)
 
