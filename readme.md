@@ -51,6 +51,7 @@ Feel free to send a donation to my [Paypal account](https://paypal.me/messengerw
 = 1.0.0 =
 * 2012-08-22
 * Initial release
+
 == Upgrade Notice ==
 
 = 1.0.2 =
