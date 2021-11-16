@@ -2,6 +2,11 @@ node*
 vendor*
 # ignore all . files and . folders
 .*
+/css*
+/sass*
+/favicons*
+package.json*
+gulpfile.js
 # Don't ignore .gitignore (this file)
 # This is just for verbosity, you can leave it out if
 # .gitignore is already tracked or if you use -f to

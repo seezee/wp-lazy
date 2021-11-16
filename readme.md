@@ -3,9 +3,9 @@ Contributors: seezee
 Donate link: https://messengerwebdesign.com/donate  
 Tags: wordpress, filter, images, performance, lazy load  
 Requires at least: 3.9  
-Tested up to: 5.2.2  
+Tested up to: 5.8.2  
 Requires PHP: 7.0  
-Stable tag: 1.0.2  
+Stable tag: 1.0.3  
 License: GNUv3 or later  
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -40,6 +40,11 @@ Feel free to send a donation to my [Paypal account](https://paypal.me/messengerw
 
 == Changelog ==
 
+= 1.0.3 =
+* 2021-11-11
+* Tested up to WordPress 5.8.2
+* Changed double quotation marks to single quotation marks to meet WP coding standards
+
 = 1.0.2 =
 * 2012-09-06
 * Clarified usage option one in installation instructions
@@ -51,11 +56,12 @@ Feel free to send a donation to my [Paypal account](https://paypal.me/messengerw
 = 1.0.0 =
 * 2012-08-22
 * Initial release
+
 == Upgrade Notice ==
 
-= 1.0.2 =
-* 2012-09-06
-* Clarified usage option one in installation instructions
+= 1.0.3 =
+* 2021-11-11
+* Tested up to WordPress 5.8.2
+* Changed double quotation marks to single quotation marks to meet WP coding standards
 
 [//]: # (REMEMBER to update the Stable tag!)
-

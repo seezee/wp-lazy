@@ -30,7 +30,7 @@ add_filter( 'image_send_to_editor', 'mmp_lazy', 10 );
  * @return array (maybe) filtered gallery image tag attributes.
  */
 function mmp_filter_gallery_img_atts( $atts, $attachment ) {
-	$atts['loading'] = "lazy";
+	$atts['loading'] = 'lazy';
 
 	return $atts;
 }
