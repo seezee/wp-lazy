@@ -36,7 +36,7 @@ I’m looking for collaborators to improve the code. If you are an experienced W
 
 ### I’d like to do even more
 
-Feel free to send a donation to my [Paypal account](https://paypal.me/messengerwebdesign?locale.x=en_US). Or buy me a beer if you’re in town.
+Feel free to send a donation to my [Paypal account](https://paypal.me/messengerwebdesign?locale.x=en_US). Or buy me a beer or a [coffee](https://buymeacoffee.com/chrisjzahller) if you’re in town.
 
 == Changelog ==
 
